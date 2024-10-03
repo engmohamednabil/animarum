@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'font-awesome-brands';
     src:
-        url('../webfonts/font-awesome-brands/font-awesome-brands.ttf') format('truetype'),
-        url('../webfonts/font-awesome-brands/font-awesome-brands.woff') format('woff'),
-        url('../webfonts/font-awesome-brands/font-awesome-brands.svg#font-awesome-brands') format('svg');
+        url('/assets/webfonts/font-awesome-brands/font-awesome-brands.ttf') format('truetype'),
+        url('/assets/webfonts/font-awesome-brands/font-awesome-brands.woff') format('woff'),
+        url('/assets/webfonts/font-awesome-brands/font-awesome-brands.svg#font-awesome-brands') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;

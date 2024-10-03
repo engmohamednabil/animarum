@@ -1,39 +1,39 @@
 @font-face {
     font-family: 'HK Grotesk';
-    src: url('../../webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff2') format('woff2'),
-         url('../../webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff') format('woff');
+    src: url('/assets/webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/hk-grotesk/hkgrotesk-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'HK Grotesk';
-    src: url('../../webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff2') format('woff2'),
-         url('../../webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff') format('woff');
+    src: url('/assets/webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/hk-grotesk/hkgrotesk-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'HK Grotesk';
-    src: url('../../webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff2') format('woff2'),
-         url('../../webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff') format('woff');
+    src: url('/assets/webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/hk-grotesk/hkgrotesk-medium-webfont.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'HK Grotesk';
-    src: url('../../webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff2') format('woff2'),
-         url('../../webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff') format('woff');
+    src: url('/assets/webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff2') format('woff2'),
+         url('/assets/webfonts/hk-grotesk/hkgrotesk-semibold-webfont.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Zodiak';
-    src: url('../../webfonts/zodiak/Zodiak-Light.woff2') format('woff2'),
-         url('../../webfonts/zodiak/Zodiak-Light.woff') format('woff');
+    src: url('/assets/webfonts/zodiak/Zodiak-Light.woff2') format('woff2'),
+         url('/assets/webfonts/zodiak/Zodiak-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
