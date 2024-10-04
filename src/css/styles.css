@@ -1,5 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-@import "~bootstrap/dist/css/bootstrap.css";
 
 @charset "utf-8";
 /*------------------------------------------------------------------
@@ -158,6 +157,7 @@ Primary use: Multipurpose Template
 61. Intro page.
 -------------------------------------------------------------------*/
 
+@import "~bootstrap/dist/css/bootstrap.css";
 
 /* ==============================
    Icon fonts

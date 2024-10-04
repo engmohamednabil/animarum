@@ -28,7 +28,16 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/css/styles.css"
+              "src/css/bootstrap.min.css",
+              "src/css/styles.css",
+              "src/css/style-responsive.css",
+              "src/css/vertical-rhythm.min.css",
+              "src/css/vertical-rhythm.min.css",
+              "src/css/magnific-popup.css",
+              "src/css/owl.carousel.css",
+              "src/css/splitting.css",
+              "src/css/YTPlayer.css",
+              "src/css/demo-corporate/demo-corporate.css"
             ],
             "scripts": []
           },
@@ -91,9 +100,17 @@
               "src/assets/images",
               "src/assets/webfronts"
             ],
-            "styles": [
+            "styles": [              
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "src/css/styles.css"
+              "src/css/styles.css",
+              "src/css/style-responsive.css",
+              "src/css/vertical-rhythm.min.css",
+              "src/css/vertical-rhythm.min.css",
+              "src/css/magnific-popup.css",
+              "src/css/owl.carousel.css",
+              "src/css/splitting.css",
+              "src/css/YTPlayer.css",
+              "src/css/demo-corporate/demo-corporate.css"
             ],
             "scripts": []
           }
