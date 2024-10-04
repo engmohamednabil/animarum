@@ -29,6 +29,7 @@
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/css/bootstrap.min.css",
+              "src/styles.css",
               "src/css/styles.css",
               "src/css/style-responsive.css",
               "src/css/vertical-rhythm.min.css",
@@ -102,6 +103,7 @@
             ],
             "styles": [              
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css",
               "src/css/styles.css",
               "src/css/style-responsive.css",
               "src/css/vertical-rhythm.min.css",
