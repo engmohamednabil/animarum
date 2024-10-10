@@ -37,7 +37,6 @@
               "src/css/magnific-popup.css",
               "src/css/owl.carousel.css",
               "src/css/splitting.css",
-              "src/css/YTPlayer.css",
               "src/css/demo-corporate/demo-corporate.css"
             ],
             "scripts": []
@@ -111,7 +110,6 @@
               "src/css/magnific-popup.css",
               "src/css/owl.carousel.css",
               "src/css/splitting.css",
-              "src/css/YTPlayer.css",
               "src/css/demo-corporate/demo-corporate.css"
             ],
             "scripts": []
